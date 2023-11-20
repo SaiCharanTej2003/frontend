@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "vishnu",
+      "email": "vishnubhai@gmail.com",
+      "mobile": 8596857459,
+      "city": "hyderabad"
+      
+    },
+    {
+      "id": 3,
+      "name": "vineeth",
+      "email": "jammyjiggle738@gmail.com",
+      "mobile": 9696858574,
+      "city": "vizag"
+     
+    },
+    {
+      "id": 4,
+      "name": "ruthvik reddy",
+      "email": "pandujuice23@gmail.com",
+      "mobile": 85768986546,
+      "city": "banglore"
+      
+    },
+    {
+      "id": 5,
+      "name": "tarak",
+      "email": "tarakmg069@gmail.com",
+      "mobile": 8585857475,
+      "city": "vijayawada"
+      
+    },
+    {
+      "id": 6,
+      "name": "keerthi",
+      "email": "keer118@gmail.com",
+      "mobile": 9657845789,
+      "city": "mumbai"
+      
+    },
+    {
+      "id": 7,
+      "name": "mounish",
+      "email": "bijjamulamounish2003@gmail.com",
+      "mobile": 9182925547,
+      "city": "nellore"
+      
+    }
+  ],
+  "signup": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": 9658745692,
+      "password": "adminlogin",
+      "id": 1
+    },
+    {
+      "name": "vitapadministator",
+      "email": "vitap@gmail.com",
+      "mobile": 8152452414,
+      "password": "vitaplogin",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
